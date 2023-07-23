@@ -1,3 +1,6 @@
+# Module problem
+some of the module may not function so the app might not run perfectly it sometimes dosent run on even my pc if you can solve it then feel free to do so. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
